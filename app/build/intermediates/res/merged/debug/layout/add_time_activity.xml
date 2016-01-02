@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_time_date"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/tv_time_loc"
+        android:layout_alignBottom="@+id/tv_time_loc"
+        android:layout_alignParentRight="true"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/add_timeact_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/addact_btn_add" />
+
+    <TextView
+        android:id="@+id/tv_time_loc"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/add_timeact_add"
+        android:layout_toLeftOf="@+id/tv_time_date"
+        android:textSize="24sp" />
+    <View
+        android:id="@+id/a2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv_time_loc"
+        android:background="#8DB3E1" />
+
+    <ListView
+        android:id="@+id/List2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/a2"
+        android:divider="#8DB3E1"
+        android:dividerHeight="2dp" />
+    
+
+</RelativeLayout>

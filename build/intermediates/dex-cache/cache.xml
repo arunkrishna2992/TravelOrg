@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e8718dfc9f6e311b9d278ae63d833caa78c2a0a8">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/instant-run_5340155859ecdc74c56daa2637f8a5d4e6835d0a.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_e53b28c455ecd083b582e2f353a7d5603ac4beab.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_6159201add70b9276225ace8fcf9540ba8d5c7b6.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="174540087336eaada1fd36312bc78771dd923d61">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/classes_991cd6b6146d1c37a6963c6570b28c6dd73eacc5.jar" />
+    </item>
+    <item
+        jar="/home/arun/Softwares/adt-bundle-linux-x86_64-20140702 /sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_143b3b7b296802821460f4c08529141154d9af00.jar" />
+    </item>
+    <item
+        jar="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/arun/AndroidStudioProjects/TravelOrg/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_48c9cf1edfb4315c21fc33c4e60cc132ffc74563.jar" />
+    </item>
+
+</items>
